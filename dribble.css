@@ -142,6 +142,7 @@ h5{
 }
 .cover:hover::after{
     opacity: 1;
+    
 }
 .cover .showmore{
     opacity: 0;
